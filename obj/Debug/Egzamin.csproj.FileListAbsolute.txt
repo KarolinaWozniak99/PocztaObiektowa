@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\obj\Debug\Egzamin.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\bin\Debug\Egzamin.exe.config
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\bin\Debug\Egzamin.exe
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\bin\Debug\Egzamin.pdb
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\obj\Debug\Egzamin.exe
+C:\Users\LENOVO\Desktop\Studia 3\Programowanie\Egzamin\obj\Debug\Egzamin.pdb
